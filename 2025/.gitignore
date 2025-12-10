@@ -34,3 +34,10 @@ bin/
 
 ### Advent of Code
 **/input.txt
+
+.gradle
+build
+out
+gradlew
+gradlew.bat
+gradle
